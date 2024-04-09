@@ -199,7 +199,7 @@ Here are some examples of how to use the :any:`Configuration` object.
 .. code-block:: python
 
     import newspaper
-    from newspaper impo, Article, Source
+    from newspaper import Article, Source
 
     config = Config()
     config.memoize_articles = False
